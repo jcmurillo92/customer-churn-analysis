@@ -43,6 +43,22 @@ This chart shows that customers using electronic check had the highest churn rat
 - Customers using **electronic check** had the highest churn rate among payment methods at **45.3%**
 
 ## Recommendations
-1. Encourage longer-term contracts
-2. Improve first-year onboarding
-3. Promote automatic payments
+
+### 1. Incentivize Long-Term Contracts
+Customers on month-to-month contracts had significantly higher churn rates compared to customers on one-year or two-year contracts. This suggests that customers with lower commitment are more likely to leave.
+
+The business should consider offering incentives such as discounts, bundled services, or loyalty rewards to encourage customers to transition from month-to-month plans to longer-term contracts.
+
+---
+
+### 2. Strengthen First-Year Customer Experience
+Churn was highest among customers within their first 12 months, indicating that early customer experience is a critical period for retention.
+
+The company should focus on improving onboarding processes, customer support, and early engagement strategies to ensure customers receive value quickly and remain satisfied during their initial months.
+
+---
+
+### 3. Promote Automatic Payment Methods
+Customers using electronic check had significantly higher churn rates compared to those using automatic payment methods.
+
+Encouraging customers to switch to automatic payments through incentives or simplified enrollment could improve retention by increasing convenience and reducing missed or delayed payments.
