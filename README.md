@@ -19,6 +19,9 @@ The objective of this analysis was to answer the following questions:
 - Tableau
 - GitHub
 
+## Dashboard
+![Customer Churn Dashboard](visuals/dashboard.png)
+
 ## Key Findings
 - The overall customer churn rate was **26.5%**
 - Customers on **month-to-month contracts** had the highest churn rate at **42.7%**
