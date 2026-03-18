@@ -2,7 +2,7 @@
 
 This folder contains dashboard screenshots and chart exports used in the README.
 
-##Recommended files:
+## Recommended files:
 ### Dashboard
 <img width="1199" height="799" alt="Customer Churn Analysis Dashboard" src="https://github.com/user-attachments/assets/374c3f18-b4aa-4bcf-a00f-461e5aa5f535" />
 
