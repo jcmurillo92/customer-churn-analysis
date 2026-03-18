@@ -29,7 +29,7 @@ This chart shows that customers on month-to-month contracts had the highest chur
 <img width="999" height="799" alt="Churn Is Highest Among Month-to-Month Customers" src="https://github.com/user-attachments/assets/9bffc451-2576-4bd0-b119-b1c8910165b5" />
 
 ### Churn by Customer Tenure
-This chart shows that churn was highest in the first 12 months at 47.4% and steadily declined as tenure increased. This suggests that the first year is the most critical period for customer retention.
+This chart highlights that churn is heavily concentrated in the first 12 months of a customer's lifecycle, with a sharp decline as tenure increases. This pattern suggests that customers who remain beyond their first year are significantly more likely to stay long-term, emphasizing the importance of early retention strategies.
 <img width="999" height="799" alt="Churn Falls as Customer Tenure Increases" src="https://github.com/user-attachments/assets/8d8eb533-5c41-4e05-8725-9b1b948db49d" />
 
 ### Churn by Payment Method
