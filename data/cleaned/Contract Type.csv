@@ -1,0 +1,7 @@
+Contract,Churn,customers
+Month-to-month,false,2220
+Month-to-month,true,1655
+One year,false,1307
+One year,true,166
+Two year,false,1647
+Two year,true,48

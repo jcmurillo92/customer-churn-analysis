@@ -1,0 +1,9 @@
+PaymentMethod,Churn,customers
+Bank transfer (automatic),false,1286
+Mailed check,false,1304
+Electronic check,false,1294
+Mailed check,true,308
+Credit card (automatic),false,1290
+Electronic check,true,1071
+Bank transfer (automatic),true,258
+Credit card (automatic),true,232

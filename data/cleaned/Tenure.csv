@@ -1,0 +1,9 @@
+tenure_group,Churn,customers
+0-12 months,false,1149
+0-12 months,true,1037
+12-24 months,false,730
+12-24 months,true,294
+24-48 months,false,1269
+24-48 months,true,325
+48+ months,true,213
+48+ months,false,2026
