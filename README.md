@@ -16,7 +16,7 @@ The objective of this analysis was to answer the following questions:
 ## Tools Used
 - **Microsoft Excel** for initial data exploration, category review, and data cleaning
 - **SQL** for aggregating customer data and calculating churn by segment
-- **Tableau** for interactive dashboard creation and data visualizations regarding churn trends and highlight key insights
+- **Tableau** for interactive dashboard creation and data visualization to analyze churn trends and highlight key insights
 - **GitHub** for project documentation and portfolio presentation
 
 ## Dashboard
@@ -65,19 +65,17 @@ Customer churn directly impacts revenue, customer acquisition costs, and long-te
 ## Recommendations
 
 #### 1. Incentivize Long-Term Contracts
-Offer discounts or promotional pricing for customers who switch from month-to-month to annual contracts. Since month-to-month customers churn at 42.7%, increasing contract commitment could significantly reduce churn and stabilize recurring revenue.
+Offer discounts or promotional pricing for customers who switch from month-to-month to annual contracts. Since month-to-month customers churn at 42.7%, increasing contract commitment could significantly reduce churn and stabilize recurring revenue. This strategy could be executed through targeted email campaigns or in-app upgrade prompts aimed specifically at high-risk, month-to-month customers.
 
 ---
 
 #### 2. Improve First-Year Customer Retention
-Churn was highest among customers within their first 12 months, highlighting the importance of early customer experience.
-The business should focus on improving onboarding, proactive customer support, and early engagement strategies to ensure customers receive value quickly and remain satisfied during their initial months.
+Churn was highest among customers within their first 12 months, highlighting the importance of early customer experience. The business should focus on improving onboarding, proactive customer support, and early engagement strategies to ensure customers receive value quickly and remain satisfied during their initial months. Implement onboarding programs, early engagement campaigns, and proactive customer support during the first 12 months. Since churn is highest at 47.4% in this period, improving the early customer experience can significantly increase long-term retention.
 
 ---
 
 #### 3. Encourage Automatic Payment Methods
-Customers using electronic check had significantly higher churn rates compared to those using automatic payment methods.
-Encouraging customers to switch to automatic payments through incentives or simplified enrollment could improve retention by increasing convenience and reducing friction in the billing process.
+Customers using electronic check had significantly higher churn rates compared to those using automatic payment methods. Encouraging customers to switch to automatic payments through incentives or simplified enrollment could improve retention by increasing convenience and reducing friction in the billing process. Additionally, analyzing customer friction in the payment experience, such as failed payments or manual billing steps, can help uncover patterns contributing to higher churn in this segment.
 
 ---
 
