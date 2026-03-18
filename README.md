@@ -14,9 +14,9 @@ The objective of this analysis was to answer the following questions:
 - What business actions could reduce churn?
 
 ## Tools Used
-- **Microsoft Excel** for initial data inspection, category review, and summary checks
+- **Microsoft Excel** for initial data exploration, category review, and data cleaning
 - **SQL** for aggregating customer data and calculating churn by segment
-- **Tableau** for dashboard creation and data visualization
+- **Tableau** for interactive dashboard creation and data visualizations regarding churn trends and highlight key insights
 - **GitHub** for project documentation and portfolio presentation
 
 ## Dashboard
@@ -65,9 +65,7 @@ Customer churn directly impacts revenue, customer acquisition costs, and long-te
 ## Recommendations
 
 ### 1. Incentivize Long-Term Contracts
-Customers on month-to-month contracts had significantly higher churn rates compared to customers on one-year or two-year contracts. This indicates that customers with lower commitment levels are more likely to leave.
-
-The company should introduce incentives such as discounts, loyalty rewards, or bundled services to encourage customers to transition to longer-term contracts, increasing retention and customer lifetime value.
+Offer discounts or promotional pricing for customers who switch from month-to-month to annual contracts. Since month-to-month customers churn at 42.7%, increasing contract commitment could significantly reduce churn and stabilize recurring revenue.
 
 ---
 
@@ -82,3 +80,9 @@ The business should focus on improving onboarding, proactive customer support, a
 Customers using electronic check had significantly higher churn rates compared to those using automatic payment methods.
 
 Encouraging customers to switch to automatic payments through incentives or simplified enrollment could improve retention by increasing convenience and reducing friction in the billing process.
+
+---
+
+## Conclusion
+
+This analysis identified three primary drivers of churn: low contract commitment, early customer tenure, and electronic check payment methods. By targeting these areas, businesses can reduce churn, improve retention, and increase long-term revenue stability.
