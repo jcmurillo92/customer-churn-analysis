@@ -20,6 +20,11 @@ The objective of this analysis was to answer the following questions:
 - **GitHub** for project documentation and portfolio presentation
 
 ## Dashboard
+
+An interactive version of this dashboard can be viewed below:
+
+🔗 **[Tableau Customer Churn Analysis Dashboard](https://public.tableau.com/app/profile/jeancarlo.murillo/viz/CustomerChurnAnalysis_17738642573280/CustomerChurnAnalysis-Dashboard5#1)**
+
 <img width="1199" height="799" alt="Customer Churn Analysis Dashboard" src="https://github.com/user-attachments/assets/374c3f18-b4aa-4bcf-a00f-461e5aa5f535" />
 
 ---
@@ -53,23 +58,27 @@ This chart shows that customers using electronic check had the highest churn rat
 - Customers in their **first 12 months** had the highest churn rate at **47.4%**
 - Customers using **electronic check** had the highest churn rate among payment methods at **45.3%**
 
+## Why This Matters
+
+Customer churn directly impacts revenue, customer acquisition costs, and long-term business growth. By identifying high-risk customer segments, the business can take targeted actions to improve retention, reduce churn, and increase customer lifetime value. Focusing on early-tenure customers, contract commitment, and payment behavior can lead to more stable and predictable revenue streams.
+
 ## Recommendations
 
 ### 1. Incentivize Long-Term Contracts
-Customers on month-to-month contracts had significantly higher churn rates compared to customers on one-year or two-year contracts. This suggests that customers with lower commitment are more likely to leave.
+Customers on month-to-month contracts had significantly higher churn rates compared to customers on one-year or two-year contracts. This indicates that customers with lower commitment levels are more likely to leave.
 
-The business should consider offering incentives such as discounts, bundled services, or loyalty rewards to encourage customers to transition from month-to-month plans to longer-term contracts.
-
----
-
-### 2. Strengthen First-Year Customer Experience
-Churn was highest among customers within their first 12 months, indicating that early customer experience is a critical period for retention.
-
-The company should focus on improving onboarding processes, customer support, and early engagement strategies to ensure customers receive value quickly and remain satisfied during their initial months.
+The company should introduce incentives such as discounts, loyalty rewards, or bundled services to encourage customers to transition to longer-term contracts, increasing retention and customer lifetime value.
 
 ---
 
-### 3. Promote Automatic Payment Methods
+### 2. Improve First-Year Customer Retention
+Churn was highest among customers within their first 12 months, highlighting the importance of early customer experience.
+
+The business should focus on improving onboarding, proactive customer support, and early engagement strategies to ensure customers receive value quickly and remain satisfied during their initial months.
+
+---
+
+### 3. Encourage Automatic Payment Methods
 Customers using electronic check had significantly higher churn rates compared to those using automatic payment methods.
 
-Encouraging customers to switch to automatic payments through incentives or simplified enrollment could improve retention by increasing convenience and reducing missed or delayed payments.
+Encouraging customers to switch to automatic payments through incentives or simplified enrollment could improve retention by increasing convenience and reducing friction in the billing process.
