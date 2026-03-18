@@ -64,18 +64,14 @@ Customer churn directly impacts revenue, customer acquisition costs, and long-te
 
 ## Recommendations
 
-#### 1. Incentivize Long-Term Contracts
+#### <u><strong>1. Incentivize Long-Term Contracts</strong></u>
 Offer discounts or promotional pricing for customers who switch from month-to-month to annual contracts. Since month-to-month customers churn at 42.7%, increasing contract commitment could significantly reduce churn and stabilize recurring revenue.
 
---
-
-#### 2. Improve First-Year Customer Retention
+#### <u><strong>2. Improve First-Year Customer Retention</strong></u>
 Churn was highest among customers within their first 12 months, highlighting the importance of early customer experience.
 The business should focus on improving onboarding, proactive customer support, and early engagement strategies to ensure customers receive value quickly and remain satisfied during their initial months.
 
---
-
-#### 3. Encourage Automatic Payment Methods
+#### <u><strong>3. Encourage Automatic Payment Methods</strong></u>
 Customers using electronic check had significantly higher churn rates compared to those using automatic payment methods.
 Encouraging customers to switch to automatic payments through incentives or simplified enrollment could improve retention by increasing convenience and reducing friction in the billing process.
 
