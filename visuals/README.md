@@ -1,6 +1,6 @@
-# Visual Assets
+# Tableau Data Visualizations
 
-This folder contains dashboard screenshots and chart exports used in the README.
+This folder contains dashboard screenshots and chart exports used in the Tableau README.
 
 ## Recommended files:
 ### Dashboard
