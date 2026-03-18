@@ -27,14 +27,17 @@ The objective of this analysis was to answer the following questions:
 ### Churn by Contract Type
 This chart shows that customers on month-to-month contracts had the highest churn rate at 42.7%, much higher than one-year and two-year contract customers. This suggests that lower customer commitment is strongly associated with higher churn.
 <img width="999" height="799" alt="Churn Is Highest Among Month-to-Month Customers" src="https://github.com/user-attachments/assets/9bffc451-2576-4bd0-b119-b1c8910165b5" />
+---
 
 ### Churn by Customer Tenure
 This chart highlights that churn is heavily concentrated in the first 12 months of a customer's lifecycle, with a sharp decline as tenure increases. This pattern suggests that customers who remain beyond their first year are significantly more likely to stay long-term, emphasizing the importance of early retention strategies.
 <img width="999" height="799" alt="Churn Falls as Customer Tenure Increases" src="https://github.com/user-attachments/assets/8d8eb533-5c41-4e05-8725-9b1b948db49d" />
+---
 
 ### Churn by Payment Method
 This chart shows that customers using electronic check had the highest churn rate at 45.3%, while customers using automatic payment methods had lower churn. This suggests that billing behavior may be linked to customer retention.
 <img width="999" height="799" alt="Electronic Check Customers Have the Highest Churn Rate" src="https://github.com/user-attachments/assets/0fd796dc-2452-41c3-8218-1afae0e96ffb" />
+---
 
 ## Key Findings
 - The overall customer churn rate was **26.5%**
