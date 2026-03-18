@@ -14,10 +14,10 @@ The objective of this analysis was to answer the following questions:
 - What business actions could reduce churn?
 
 ## Tools Used
-- Microsoft Excel
-- SQL
-- Tableau
-- GitHub
+- **Microsoft Excel** for initial data inspection, category review, and summary checks
+- **SQL** for aggregating customer data and calculating churn by segment
+- **Tableau** for dashboard creation and data visualization
+- **GitHub** for project documentation and portfolio presentation
 
 ## Dashboard
 <img width="1199" height="799" alt="Customer Churn Analysis Dashboard" src="https://github.com/user-attachments/assets/374c3f18-b4aa-4bcf-a00f-461e5aa5f535" />
