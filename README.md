@@ -22,6 +22,8 @@ The objective of this analysis was to answer the following questions:
 ## Dashboard
 <img width="1199" height="799" alt="Customer Churn Analysis Dashboard" src="https://github.com/user-attachments/assets/374c3f18-b4aa-4bcf-a00f-461e5aa5f535" />
 
+---
+
 ## Chart Explanations
 
 ### Churn by Contract Type
